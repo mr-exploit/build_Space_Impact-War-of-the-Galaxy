@@ -18,6 +18,7 @@ https://github.com/mr-exploit/build_Space_Impact-War-of-the-Galaxy
 or 
 ```bash
 git clone https://github.com/mr-exploit/build_Space_Impact-War-of-the-Galaxy.git
+```bash
 
 ### 2. run to program
 then you double-click on the Game_space_impact.exe section  as shown below
